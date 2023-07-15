@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "image": "./images/sunImage.jpg",
+    "options": [
+      {
+        "answer": "Moon",
+        "isCorrect": false
+      },
+
+      {
+        "answer": "Sun",
+        "isCorrect": true
+      },
+
+      {
+        "answer": "Venus",
+        "isCorrect": false
+      },
+
+      {
+        "answer": "Jupiter",
+        "isCorrect": false
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "image": "./images/moonImage.jpg",
+    "options": [
+      {
+        "answer": "Pluto",
+        "isCorrect": false
+      },
+
+      {
+        "answer": "Earth",
+        "isCorrect": false
+      },
+
+      {
+        "answer": "Moon",
+        "isCorrect": true
+      },
+
+      {
+        "answer": "Star",
+        "isCorrect": false
+      }
+    ]
+  },
+
+
+{
+  "id": 3,
+  "image": "./images/astronautImage.jpg",
+  "options": [
+    {
+      "answer": "Astronaut",
+      "isCorrect": true
+    },
+
+    {
+      "answer": "Extraterrestrial",
+      "isCorrect": false
+    },
+
+    {
+      "answer": "Ghost Buster",
+      "isCorrect": false
+    },
+
+    {
+      "answer": "Michelan Man",
+      "isCorrect": false
+    }
+  ]
+},
+
+{
+  "id": 4,
+  "image": "./images/rocketShipImage.jpg",
+  "options": [
+    {
+      "answer": "Satellite",
+      "isCorrect": false
+    },
+
+    {
+      "answer": "Rocket Ship",
+      "isCorrect": true
+    },
+
+    {
+      "answer": "Fighter Jet",
+      "isCorrect": false
+    },
+
+    {
+      "answer": "UAP",
+      "isCorrect": false
+    }
+  ]
+},
+
+{
+  "id": 5,
+  "image": "./images/blackHole.jpg",
+  "options": [
+    {
+      "answer": "Intergalactic Portal",
+      "isCorrect": false
+    },
+
+    {
+      "answer": "Wormhole",
+      "isCorrect": true
+    },
+
+    {
+      "answer": "Black Hole",
+      "isCorrect": true
+    },
+
+    {
+      "answer": "The Milky Way",
+      "isCorrect": false
+    }
+  ]
+}
+
+]
