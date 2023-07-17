@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "./images/sunImage.jpg",
+    "image": "sunImage.jpg",
     "options": [
       {
         "answer": "Moon",
@@ -27,7 +27,7 @@
 
   {
     "id": 2,
-    "image": "./images/moonImage.jpg",
+    "image": "moonImage.jpg",
     "options": [
       {
         "answer": "Pluto",
@@ -54,7 +54,7 @@
 
 {
   "id": 3,
-  "image": "./images/astronautImage.jpg",
+  "image": "astronautImage.jpg",
   "options": [
     {
       "answer": "Astronaut",
@@ -80,7 +80,7 @@
 
 {
   "id": 4,
-  "image": "./images/rocketShipImage.jpg",
+  "image": "rocketShipImage.jpg",
   "options": [
     {
       "answer": "Satellite",
@@ -106,7 +106,7 @@
 
 {
   "id": 5,
-  "image": "./images/blackHole.jpg",
+  "image": "blackHole.jpg",
   "options": [
     {
       "answer": "Intergalactic Portal",

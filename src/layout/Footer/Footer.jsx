@@ -1,4 +1,4 @@
-const gitHubUrl = "https://github.com/maxespinosa19/quiz-app-c11"
+const gitHubUrl = "https://github.com/Kevindietme/project-intergalactic-quiz-app"
 const getFullYear = new Date().getFullYear()
 
 export default function Footer (){

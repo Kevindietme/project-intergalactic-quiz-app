@@ -7,7 +7,7 @@ export default function Card({ data, quizId, quizLength, handleAnswer }) {
       
       <h2>🚀 Intergalactic Quiz</h2>
       
-      <img src={imageUri + data[quizId].image} alt="" />
+      <img src= {imageUri + data[quizId].image} alt="" />
 
       <ul>
         {
