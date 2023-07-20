@@ -1,5 +1,5 @@
 # Intergalactic Quiz App 
-![screen shot of site](./images/quizApp.png)
+[![screen shot of the site](./images/counterImage.jpg)]
 
 ## Description
 This is an interactive quiz app with an outer space theme. This project was created using React in Javascript and CSS. It also features generative AI in the styling.  
